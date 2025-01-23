@@ -69,10 +69,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABY09_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+OL6jdTL7JAJjYzVl")
-SOURCE = getenv("SOURCE", "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC")
-CHAT = getenv("CHAT", "https://t.me/chattinghuboo")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/welcometomyheart0")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/welcometomyheart0")
+SOURCE = getenv("SOURCE", "https://t.me/Nothing_ixnee")
+CHAT = getenv("CHAT", "https://t.me/Nothing_ixnee")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/xhpqtp.jpg"
+    "START_IMG_URL", "https://i.imghippo.com/files/pJc9697Rc.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/fd827f9a4fe8eaa3e8bf4.jpg"
