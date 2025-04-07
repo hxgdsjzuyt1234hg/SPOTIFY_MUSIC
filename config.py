@@ -1,4 +1,4 @@
-import re
+7import re
 from os import getenv
 # ------------------------------------
 # ------------------------------------
@@ -22,7 +22,7 @@ BOT_NAME = getenv("BOT_NAME" , "MR_MOTU_PATLU")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
 
-API_KEY = "abc921ff654bcf7b3faff8f775d781d27d32bfd02d6692eea30249ba781c8b"  # अपना API key यहाँ डालें
+API_KEY = "NCFUBH-CVAHYH-NGNOLB-GSBRVA-ARQ"  # अपना API key यहाँ डालें
 # ---------------------------------------------------------
 
 
@@ -69,10 +69,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/welcometomyheart0")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/welcometomyheart0")
-SOURCE = getenv("SOURCE", "https://t.me/Nothing_ixnee")
-CHAT = getenv("CHAT", "https://t.me/Nothing_ixnee")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MRMOTUPATLUCHAT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MRMOTUPATLUCHAT")
+SOURCE = getenv("SOURCE", "https://t.me/MRMOTUPATLUCHAT")
+CHAT = getenv("CHAT", "https://t.me/MRMOTUPATLUCHAT")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
